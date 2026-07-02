@@ -38,6 +38,7 @@ Certifique-se de que não exista nenhum serviço utilizando a porta **3009**.
 Na raiz do projeto, execute:
 
 ```bash
+npm install
 npx expo run:android
 ```
 
