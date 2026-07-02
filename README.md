@@ -57,3 +57,8 @@ rm -rf node_modules package-lock.json
 npm install
 npx expo run:android
 ```
+<p align="center"> 
+<img src="https://github.com/user-attachments/assets/607b9376-1225-4eca-a969-e6f859b52bb0" width="220" alt="Tela Login">
+<img src="https://github.com/user-attachments/assets/d2869e1c-ba0d-49ef-aa27-34a3e12393ae" width="220" alt="Painel">  
+<img src="https://github.com/user-attachments/assets/b3778404-dc72-4d2c-878d-1db44c123a79" width="220" alt="Sub Menu"> 
+<img src="https://github.com/user-attachments/assets/8fac3d56-727a-4490-a836-32ad800409d2" width="220" alt="Login Biométrico"> </p>
